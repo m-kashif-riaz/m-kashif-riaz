@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="124" viewBox="0 0 830 124" fill="none">
+<style>
+text{font-family:'Inter','Helvetica Neue','Segoe UI',Helvetica,Arial,sans-serif;fill:#f2f2f2}
+.m{fill:#8a8a8a} .a{fill:#ff5c1f}
+.cap{font-size:12px;letter-spacing:.18em;text-transform:uppercase}
+
+</style>
+
+<text x="-2" y="70" font-size="66" font-weight="600" letter-spacing="-2.6">Let’s build something<tspan class="a">.</tspan></text>
+<text x="0" y="112" font-size="15" class="m">Reach out through any of the links below.</text>
+
+</svg>

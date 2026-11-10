@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="206" viewBox="0 0 830 206" fill="none">
+<style>
+text{font-family:'Inter','Helvetica Neue','Segoe UI',Helvetica,Arial,sans-serif;fill:#f2f2f2}
+.m{fill:#8a8a8a} .a{fill:#ff5c1f}
+.cap{font-size:12px;letter-spacing:.18em;text-transform:uppercase}
+
+</style>
+<rect x="0" y="0" width="830" height="1" fill="#30363d"/>
+<text class="cap a" x="0" y="34">01</text>
+<text class="cap m" x="30" y="34">Backend</text>
+<text x="0" y="82" font-size="22" font-weight="500" letter-spacing="-0.5">Python</text>
+<text x="0" y="114" font-size="22" font-weight="500" letter-spacing="-0.5">Django</text>
+<text x="0" y="146" font-size="22" font-weight="500" letter-spacing="-0.5">FastAPI</text>
+<text x="0" y="178" font-size="22" font-weight="500" letter-spacing="-0.5">Node.js</text>
+<text class="cap a" x="208" y="34">02</text>
+<text class="cap m" x="238" y="34">Frontend</text>
+<text x="208" y="82" font-size="22" font-weight="500" letter-spacing="-0.5">React</text>
+<text x="208" y="114" font-size="22" font-weight="500" letter-spacing="-0.5">Next.js</text>
+<text x="208" y="146" font-size="22" font-weight="500" letter-spacing="-0.5">TypeScript</text>
+<text x="208" y="178" font-size="22" font-weight="500" letter-spacing="-0.5">JavaScript</text>
+<text class="cap a" x="415" y="34">03</text>
+<text class="cap m" x="445" y="34">Data &amp; DevOps</text>
+<text x="415" y="82" font-size="22" font-weight="500" letter-spacing="-0.5">PostgreSQL</text>
+<text x="415" y="114" font-size="22" font-weight="500" letter-spacing="-0.5">MongoDB</text>
+<text x="415" y="146" font-size="22" font-weight="500" letter-spacing="-0.5">Docker</text>
+<text x="415" y="178" font-size="22" font-weight="500" letter-spacing="-0.5">GitHub</text>
+<text class="cap a" x="622" y="34">04</text>
+<text class="cap m" x="652" y="34">Cloud &amp; Tools</text>
+<text x="622" y="82" font-size="22" font-weight="500" letter-spacing="-0.5">AWS</text>
+<text x="622" y="114" font-size="22" font-weight="500" letter-spacing="-0.5">Git</text>
+<text x="622" y="146" font-size="22" font-weight="500" letter-spacing="-0.5">Linux</text>
+<rect x="0" y="205" width="830" height="1" fill="#30363d"/>
+</svg>

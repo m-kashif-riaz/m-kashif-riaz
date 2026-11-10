@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="336" viewBox="0 0 830 336" fill="none">
+<style>
+text{font-family:'Inter','Helvetica Neue','Segoe UI',Helvetica,Arial,sans-serif;fill:#f2f2f2}
+.m{fill:#8a8a8a} .a{fill:#ff5c1f}
+.cap{font-size:12px;letter-spacing:.18em;text-transform:uppercase}
+
+</style>
+
+<text class="cap m" x="0" y="20">m-kashif-riaz</text>
+<text class="cap m" x="830" y="20" text-anchor="end">Full-stack engineer</text>
+<rect x="0" y="36" width="830" height="1" fill="#30363d"/>
+<text x="-6" y="158" font-size="138" font-weight="600" letter-spacing="-6">Kashif</text>
+<text x="0" y="214" font-size="14" class="m">Scalable systems, APIs &amp; backends,</text>
+<text x="0" y="236" font-size="14" class="m">React &amp; Next.js frontends,</text>
+<text x="0" y="258" font-size="14" class="m">AI products &amp; automations.</text>
+<text x="830" y="276" font-size="138" font-weight="600" letter-spacing="-6" text-anchor="end">Riaz<tspan class="a">.</tspan></text>
+<rect x="0" y="300" width="830" height="1" fill="#30363d"/>
+<text class="cap m" x="0" y="326">Backend · Frontend · AI · Cloud</text>
+<text class="cap m" x="830" y="326" text-anchor="end">Portfolio 2026</text>
+
+</svg>
